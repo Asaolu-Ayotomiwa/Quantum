@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "482271504503",
+    "project_id": "quantum-8a884",
+    "storage_bucket": "quantum-8a884.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482271504503:android:b67d253d4a2c1435163e72",
+        "android_client_info": {
+          "package_name": "com.example.quantum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482271504503-4rdn8i5dhm647qna4jf28p85r0rg0j9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkKPR0SeQkRN5OPP6dG6Nb84E8luqzUnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482271504503-4rdn8i5dhm647qna4jf28p85r0rg0j9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482271504503-pj6idoohj8vbil9qlbmn9s158rsvg96b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quantum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
